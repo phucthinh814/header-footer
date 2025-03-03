@@ -1,0 +1,12 @@
+.hero-section {
+    height: 50vh;
+    background: url("../../assets/images/pexels-pixabay-35546512322.jpg") no-repeat center center;
+    background-size: cover;
+    margin-top: 122px;
+}
+/* Phần nội dung bên dưới có nền trắng */
+.content {
+    height: 150vh; /* Đủ dài để cuộn */
+    background: white;
+    padding: 20px;
+}
