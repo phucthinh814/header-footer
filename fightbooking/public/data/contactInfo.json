@@ -1,0 +1,60 @@
+{
+    "classType": "STANDARD",
+    "contactInfo": {
+      "email": "phanquang.work@gmail.com",
+      "firstName": "Phan",
+      "lastName": "The Quang",
+      "phone": "0937027877",
+      "password":"123123",
+      "avatar": "https://mui.com/static/images/avatar/1.jpg",
+      "points":"100"
+    },
+    "flightTickets": {
+      "departure": {
+        "airlineBrand": "VJ",
+        "arrivalAirport": "PQC",
+        "arrivalAt": "2025-03-06T17:10:00",
+        "departureAirport": "SGN",
+        "departureAt": "2025-03-06T16:10:00"
+      },
+      "return": null
+    },
+    "passengers": [
+      {
+        "birthDate": "2025-03-06",
+        "firstName": "Quoc Hao",
+        "lastName": "Nguyen",
+        "passport": {
+          "expirationDate": "2025-03-24",
+          "issuingCountry": "0",
+          "number": "xxxxxxxxx"
+        },
+        "priceTicket": "1260000.00",
+        "title": "0",
+        "type": "ADULT"
+      },
+      {
+        "title": "Mr",
+        "lastName": "Doan",
+        "firstName": "Viet Hoang",
+        "birthDate": "2025-03-05",
+        "passport": {
+          "expirationDate": "2025-04-10",
+          "issuingCountry": "0",
+          "number": "xxxxxxxxx"
+        }
+      },
+      {
+        "title": "Mr",
+        "lastName": "Nguyen",
+        "firstName": "Phuc Thinh",
+        "birthDate": "2025-03-26",
+        "passport": {
+          "expirationDate": "2025-05-15",
+          "issuingCountry": "0",
+          "number": "xxxxxxxxx"
+        }
+      }
+    ]
+  }
+  
